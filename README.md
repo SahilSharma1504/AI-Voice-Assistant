@@ -20,7 +20,7 @@ A Python-based AI Voice Assistant with a modern GUI, voice commands, and real-ti
 - 🔊 Voice ON/OFF toggle
 - 🚀 Splash screen (startup animation)
 
----
+--- 
 
 ## 🛠️ Technologies
 
