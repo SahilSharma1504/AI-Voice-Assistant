@@ -15,7 +15,7 @@ A Python-based AI Voice Assistant with a modern GUI, voice commands, and real-ti
 - 🎤 Voice command recognition
 - 💬 AI chat (Gemini API)
 - 🖥️ Modern GUI (dark theme)
-- ⚡ Fast response (threading)
+- ⚡ Fast response (threading) 
 - 📜 Chat history panel
 - 🔊 Voice ON/OFF toggle
 - 🚀 Splash screen (startup animation)
