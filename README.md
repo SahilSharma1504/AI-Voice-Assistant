@@ -9,7 +9,7 @@ A Python-based AI Voice Assistant with a modern GUI, voice commands, and real-ti
  
 ---     
 
-## 🚀 Features 
+## 🚀 Features  
   
 - 🎤 Voice command recognition  
 - 💬 AI chat (Gemini API) 
