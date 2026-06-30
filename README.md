@@ -4,7 +4,7 @@ A Python-based AI Voice Assistant with a modern GUI, voice commands, and real-ti
  
  
 ## 🎬 Demo     
- 
+  
 (Add your GIF here)    
     
 ---      
