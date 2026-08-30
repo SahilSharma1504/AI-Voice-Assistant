@@ -16,7 +16,7 @@ A Python-based AI Voice Assistant with a modern GUI, voice commands, and real-ti
 - 🖥️ Modern GUI (dark theme)
 - ⚡ Fast response (threading)  
 - 📜 Chat history panel
-- 🔊 Voice ON/OFF toggle
+- 🔊 Voice ON/OFF toggle 
 - 🚀 Splash screen (startup animation)
 
 --- 
